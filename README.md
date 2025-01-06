@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi, my name is Łukasz Michalak
+Currently, I am continuing my studies at the Polish-Japanese Academy of Information Technology at the Faculty of Computer Science, where I specialize in data science. As part of my studies, I deal with data analysis, machine learning and neural networks. I also learn tools and techniques used in data processing, which allows me to develop the skills of creating predictive models and making decisions based on data.
 
-<!--
-**lukaszm2000/lukaszm2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
