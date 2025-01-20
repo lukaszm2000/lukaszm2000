@@ -6,7 +6,7 @@ Here are some projects that show my interests and skills in various areas of Dat
 
 
 ## Projects
-### 1. **[Brain Tumor Classification and Detection]
+### 1. **[Brain Tumor Classification and Detection using Neural Networks]
 
 ### 2. **[Apartment Price Prediction with Data Scrapping]
 
