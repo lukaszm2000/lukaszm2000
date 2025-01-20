@@ -12,6 +12,8 @@ Here are some projects that show my interests and skills in various areas of Dat
 
 ### 3. **[Car Price Prediction]
 
+### 4. **[Cinema Database Project (PLSQL & T-SQL)]
+
 My interests:
 - 📊 Data analysis and visualization.
 - 🤖 Machine learning and artificial intelligence.
